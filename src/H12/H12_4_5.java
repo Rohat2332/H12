@@ -3,7 +3,7 @@ import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class H12_4 extends Applet {
+public class H12_4_5 extends Applet {
 
     int array[] = {5,27,34,42,57};
     TextField tekstfield;
